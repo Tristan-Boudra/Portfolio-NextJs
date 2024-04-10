@@ -4,39 +4,39 @@ import Link from "next/link";
 export const SIDE_PROJECTS: SideProjectProps[] = [
   {
     title: "RentEase",
-    description: "Renting platform for renters",
+    description: "SaaS application for managing real estate",
     logo: Warehouse,
     url: "https://github.com/Tristan-Boudra/RentEase",
   },
   {
     title: "TousAlbatros",
-    description: "Tous albatros website",
+    description: "Redesign of a showcase site for an association",
     logo: Bird,
-    url: "https://github.com/Tristan-Boudra/TousAlbatros",
+    url: "https://tousalbatros.fr/",
   },
   {
-    title: "My Portfolio",
-    description: "My personal website",
-    logo: Briefcase,
-    url: "https://github.com/Tristan-Boudra/Portfolio",
-  },
-  {
-    title: "HRNet plugin",
+    title: "HRNet Plugin",
     description: "HRNet plugin convert jQuery to React",
-    logo: Plug,
-    url: "https://github.com/Tristan-Boudra/HRNet",
-  },
-  {
-    title: "My Portfolio",
-    description: "My personal website",
     logo: Briefcase,
-    url: "https://github.com/Tristan-Boudra/Portfolio",
+    url: "https://github.com/Tristan-Boudra/OC-project14-plugin",
   },
   {
-    title: "HRNet plugin",
-    description: "HRNet plugin convert jQuery to React",
+    title: "HRNet website",
+    description: "Website to manages and create employee",
     logo: Plug,
-    url: "https://github.com/Tristan-Boudra/HRNet",
+    url: "https://github.com/Tristan-Boudra/OC-project14",
+  },
+  {
+    title: "Argent Bank",
+    description: "Banking management application",
+    logo: Briefcase,
+    url: "https://github.com/Tristan-Boudra/OC-project13",
+  },
+  {
+    title: "SportSee",
+    description: "Website to visualize these activities with graphs",
+    logo: Plug,
+    url: "https://github.com/Tristan-Boudra/OC-project12",
   },
 ];
 

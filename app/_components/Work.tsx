@@ -9,7 +9,7 @@ export const WORK: WorkProps[] = [
     image:
       "https://media.licdn.com/dms/image/C560BAQGQ5YkpwsXy-A/company-logo_200_200/0/1630582707771?e=1720656000&v=beta&t=LIkLl9Vqu3YvXY1pKfhuIW3VSb-dNWEldCgGNWTUfX0",
     date: "2023 - Present",
-    url: "#",
+    url: "https://tousalbatros.fr/",
     freelance: true,
   },
   {
@@ -18,7 +18,7 @@ export const WORK: WorkProps[] = [
     image:
       "https://media.licdn.com/dms/image/C560BAQGUUkEK6WOi2Q/company-logo_200_200/0/1632813132303?e=1720656000&v=beta&t=hpT82jlBpM78fCzaGNi6Agyb8iB7WecwceP_U4mIypg",
     date: "2022 - 2023",
-    url: "#",
+    url: "https://codiceo.fr/",
   },
   {
     title: "Web at Heart",
@@ -26,7 +26,7 @@ export const WORK: WorkProps[] = [
     image:
       "https://media.licdn.com/dms/image/C4E0BAQG4Cxx9rMY9mg/company-logo_200_200/0/1675070652441/web_at_heart_logo?e=1720656000&v=beta&t=kvFK5MHhxQJwy0E4DkpsrsTZeKBoknfg3Jd0W4qfiPw",
     date: "Janvier 2022",
-    url: "#",
+    url: "https://www.webatheart.com/",
   },
 ];
 

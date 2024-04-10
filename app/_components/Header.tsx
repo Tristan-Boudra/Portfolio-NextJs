@@ -18,7 +18,7 @@ export const Header = () => {
         <div className="flex-1" />
         <ul className="flex items-center gap-2">
           <Link
-            href="https://github.com/tristanboudra"
+            href="https://github.com/Tristan-Boudra"
             className={cn(buttonVariants({ variant: "outline" }), "size-6 p-0")}
           >
             <GithubIcon size={16} className="fill-foreground" />
