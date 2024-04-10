@@ -8,7 +8,7 @@ export const WORK: WorkProps[] = [
     role: "Frontend Developer",
     image:
       "https://media.licdn.com/dms/image/C560BAQGQ5YkpwsXy-A/company-logo_200_200/0/1630582707771?e=1720656000&v=beta&t=LIkLl9Vqu3YvXY1pKfhuIW3VSb-dNWEldCgGNWTUfX0",
-    date: "2023 - Present",
+    date: "2023 - 2024",
     url: "https://tousalbatros.fr/",
     freelance: true,
   },
@@ -56,7 +56,7 @@ export const WorkProject = (props: WorkProps) => {
           {props.freelance && (
             <Badge
               variant="outline"
-              className="bg-green-900/100 text-green-500"
+              className="bg-green-900/100 text-green-400"
             >
               Mission
             </Badge>
