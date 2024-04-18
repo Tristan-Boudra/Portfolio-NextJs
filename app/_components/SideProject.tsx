@@ -4,37 +4,37 @@ import Link from "next/link";
 export const SIDE_PROJECTS: SideProjectProps[] = [
   {
     title: "RentEase",
-    description: "SaaS application for managing real estate",
+    description: "SaaS de gestion immobilière",
     logo: Warehouse,
     url: "https://github.com/Tristan-Boudra/RentEase",
   },
   {
     title: "TousAlbatros",
-    description: "Redesign of a showcase site for an association",
+    description: "Création d'un site vitrine pour une association",
     logo: Bird,
     url: "https://tousalbatros.fr/",
   },
   {
     title: "HRNet Plugin",
-    description: "HRNet plugin convert jQuery to React",
+    description: "Plugin HRNet convertie de jQuery vers react",
     logo: Briefcase,
     url: "https://github.com/Tristan-Boudra/OC-project14-plugin",
   },
   {
     title: "HRNet website",
-    description: "Website to manages and create employee",
+    description: "Site web pour manager des employées",
     logo: Plug,
     url: "https://github.com/Tristan-Boudra/OC-project14",
   },
   {
     title: "Argent Bank",
-    description: "Banking management application",
+    description: "Application de gestion de compte bancaire",
     logo: Briefcase,
     url: "https://github.com/Tristan-Boudra/OC-project13",
   },
   {
     title: "SportSee",
-    description: "Website to visualize these activities with graphs",
+    description: "Site web pour une application de planning d'entrainement",
     logo: Plug,
     url: "https://github.com/Tristan-Boudra/OC-project12",
   },

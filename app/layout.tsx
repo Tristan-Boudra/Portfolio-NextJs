@@ -11,9 +11,9 @@ const AnekTelugu = Anek_Telugu({
 });
 
 export const metadata: Metadata = {
-  title: "Boudra Tristan - Frontend Developer",
+  title: "Boudra Tristan - Développeur Front-end",
   description:
-    "Portfolio of Boudra Tristan, a Frontend Developer work on React, Tailwind, Next.js ans TypeScript.",
+    "Portfolio de Boudra Tristan, développeur Front-end travaillant avec React, Tailwind, Next.js et TypeScript.",
 };
 
 export default function RootLayout({

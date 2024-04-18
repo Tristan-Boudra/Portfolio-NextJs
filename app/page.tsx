@@ -9,10 +9,12 @@ import { Status } from "./_components/Status";
 export default function Home() {
   return (
     <main>
-      <Header />
-      <Spacing size="md" />
-      <Hero />
-      <Spacing size="md" />
+      <div className="dark:bg-grid-white/[0.03] bg-grid-black/[0.2] z-10">
+        <Header />
+        <Spacing size="xl" />
+        <Hero />
+      </div>
+      <Spacing size="3xl" />
       <Status />
       <Spacing size="md" />
       <Skills />

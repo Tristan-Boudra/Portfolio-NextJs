@@ -1,6 +1,5 @@
 /* eslint-disable @next/next/no-img-element */
 import { Section } from "./Section";
-import { TwitterIcon } from "./icons/TwitterIcon";
 import Link from "next/link";
 import { GithubIcon } from "./icons/GithubIcon";
 import { Code } from "./Code";
@@ -13,23 +12,23 @@ export const Hero = () => {
         <h2 className="font-caption text-5xl font-bold text-primary">
           Boudra Tristan
         </h2>
-        <h3 className="text-3xl font-caption">Frontend Developer</h3>
+        <h3 className="text-3xl font-caption">Développeur Front-end</h3>
         <p className="text-base">
-          I love creating on{" "}
+          J aime créer des sites et applications avec{" "}
           <Link href="https://twitter.com/TristanBoudra">
             <Code className="inline-flex items-center gap-2">
               <NextJsIcon size={16} className="inline" />
               Next.js
             </Code>
           </Link>
-          . Currently work on{" "}
+          . Je travaille actuellement sur{" "}
           <Link href="https://github.com/Tristan-Boudra/RentEase">
             <Code className="inline-flex items-center gap-2">
               <GithubIcon size={16} className="inline" />
               RentEase
             </Code>
           </Link>{" "}
-          a property management SaaS.
+          un SaaS de gestion immobilière.
         </p>
       </div>
       <div className="flex-[2] max-md:m-auto ml-auto">
