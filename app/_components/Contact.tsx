@@ -12,11 +12,11 @@ export const Contact = () => {
       <div className="flex max-md:flex-col w-full gap-4">
         <ContactCard
           className="flex-1"
-          name="Twitter"
-          image="https://pbs.twimg.com/profile_images/1716536427859603456/gsFHW0BN_400x400.jpg"
-          mediumImage="https://upload.wikimedia.org/wikipedia/commons/e/e6/Twitter-new-logo.jpg"
-          description="@TristanBoudra"
-          url="https://twitter.com/TristanBoudra"
+          name="Mail"
+          image="https://media.licdn.com/dms/image/D4D03AQGWlPON2IgcAg/profile-displayphoto-shrink_100_100/0/1711984554169?e=1718236800&v=beta&t=tAJ6OeEZ8-1ISnSvv8aSU3zWhPxADUH0GvnvmzSxMVk"
+          mediumImage="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI=w240-h480-rw"
+          description="boudratristan@gmail.com"
+          url="mailto:boudratristan@gmail"
         />
         <ContactCard
           className="flex-1"
@@ -28,11 +28,11 @@ export const Contact = () => {
         />
         <ContactCard
           className="flex-1"
-          name="Mail"
-          image="https://media.licdn.com/dms/image/D4D03AQGWlPON2IgcAg/profile-displayphoto-shrink_100_100/0/1711984554169?e=1718236800&v=beta&t=tAJ6OeEZ8-1ISnSvv8aSU3zWhPxADUH0GvnvmzSxMVk"
-          mediumImage="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI=w240-h480-rw"
-          description="boudratristan@gmail.com"
-          url="mailto:boudratristan@gmail"
+          name="Twitter"
+          image="https://pbs.twimg.com/profile_images/1716536427859603456/gsFHW0BN_400x400.jpg"
+          mediumImage="https://upload.wikimedia.org/wikipedia/commons/e/e6/Twitter-new-logo.jpg"
+          description="@TristanBoudra"
+          url="https://twitter.com/TristanBoudra"
         />
       </div>
     </Section>

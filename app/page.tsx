@@ -9,11 +9,9 @@ import { Status } from "./_components/Status";
 export default function Home() {
   return (
     <main>
-      <div className="dark:bg-grid-white/[0.03] bg-grid-black/[0.2] z-10">
-        <Header />
-        <Spacing size="xl" />
-        <Hero />
-      </div>
+      <Header />
+      <Spacing size="xl" />
+      <Hero />
       <Spacing size="3xl" />
       <Status />
       <Spacing size="md" />
