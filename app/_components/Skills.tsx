@@ -21,7 +21,7 @@ export const Skills = () => {
           />
           <h3 className="font-semibold tracking-tight text-2xl">React</h3>
           <p className="text-sm text-muted-foreground">
-            Mon framework principale est <Code>React</Code>. J'utilise également{" "}
+            Mon framework principal est <Code>React</Code>. J'utilise également{" "}
             <Code>Next.js</Code> qui est un framework Front-end et Back-end.
           </p>
         </div>

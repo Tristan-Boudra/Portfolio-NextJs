@@ -45,7 +45,7 @@ export const SIDE_PROJECTS: SideProjectProps[] = [
   },
   {
     title: "HRNet website",
-    description: "Site web pour manager des employées",
+    description: "Site web pour manager des employés",
     logo: Briefcase,
     url: "https://github.com/Tristan-Boudra/OC-project14",
   },

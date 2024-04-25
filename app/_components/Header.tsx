@@ -10,7 +10,7 @@ import { LinkedinIcon } from "./icons/LinkedinIcon";
 
 export const Header = () => {
   return (
-    <header className="sticky top-0 py-4 bg-background/80 backdrop-filter backdrop-blur-sm z-10">
+    <header className="sticky top-0 py-4 bg-background/80 backdrop-filter backdrop-blur-sm z-40">
       <Section className="flex items-baseline">
         <h1 className="text-lg font-bold font-primary-foreground">
           Boudra Tristan

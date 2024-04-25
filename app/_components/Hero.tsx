@@ -36,7 +36,7 @@ export const Hero = () => {
             <Link href="mailto:boudratristan@gmail.com">Me contacter</Link>
           </Button>
         </div>
-        <div className="flex-[2] max-md:m-auto ml-auto">
+        <div className="flex-[2] max-md:m-auto ml-auto z-10">
           <img
             src="https://avatars.githubusercontent.com/u/91051365?v=4"
             className="w-full h-auto max-w-xs max-md:w-56 rounded-full"
