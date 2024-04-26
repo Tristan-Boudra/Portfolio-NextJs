@@ -10,7 +10,7 @@ import { BackgroundBeams } from "@/components/ui/background-beams";
 export const Hero = () => {
   return (
     <Section className="flex max-md:flex-col items-center gap-4">
-      <BackgroundBeams className="z-10" />
+      <BackgroundBeams />
       <div className="flex max-md:flex-col items-center gap-4 z-20">
         <div className="flex-[3] w-full flex flex-col gap-2">
           <h2 className="font-caption text-5xl font-bold text-primary">
