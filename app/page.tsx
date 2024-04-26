@@ -6,7 +6,6 @@ import { Hero } from "./_components/Hero";
 import { Skills } from "./_components/Skills";
 import { Spacing } from "./_components/Spacing";
 import { Status } from "./_components/Status";
-import { SpeedInsights } from "@vercel/speed-insights/next";
 
 export default function Home() {
   return (
@@ -34,7 +33,6 @@ export default function Home() {
         />
       </Head>
       <main>
-        <SpeedInsights />
         <Header />
         <Spacing size="xl" />
         <Hero />
