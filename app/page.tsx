@@ -15,7 +15,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
-          content="Portfolio de Boudra Tristan, développeur Front-end"
+          content="Portfolio de Boudra Tristan - Développeur Front-end"
         />
         <script
           async
@@ -27,9 +27,7 @@ export default function Home() {
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
-            gtag('config', 'G-EJES2PGHG5', {
-              page_path: window.location.pathname,
-            });
+            gtag('config', 'G-EJES2PGHG5');
           `,
           }}
         />
