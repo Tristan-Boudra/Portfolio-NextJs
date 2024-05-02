@@ -9,7 +9,7 @@ export const WORK: WorkProps[] = [
     image:
       "https://media.licdn.com/dms/image/C560BAQGQ5YkpwsXy-A/company-logo_200_200/0/1630582707771?e=1720656000&v=beta&t=LIkLl9Vqu3YvXY1pKfhuIW3VSb-dNWEldCgGNWTUfX0",
     date: "2023 - 2024",
-    url: "https://tousalbatros.fr/",
+    url: "https://tous-albatros-next-js.vercel.app/",
     freelance: true,
   },
   {
